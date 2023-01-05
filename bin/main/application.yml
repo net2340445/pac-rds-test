@@ -1,0 +1,22 @@
+micronaut:
+  application:
+    name: my-app-graal
+
+datasources:
+    default:
+      driverClassName:org.mariadb.jdbc.Driver
+      url:jdbc:mysql://rds-iada-d-engage-cluster.cluster-chrlfb4mzmcs.us-east-1.rds.amazonaws.com
+      username:roadrunner
+      password:MM33pM33p_$$
+      maxpoolsize:2
+      minidle:1
+      idletimeout:10000
+      
+jpa:
+  default:
+    properties:
+      hibernate:
+        bytecode:
+          provider: none
+
+    

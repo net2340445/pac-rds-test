@@ -1,0 +1,22 @@
+micronaut:
+  application:
+    name: my-app-graal
+
+datasources:
+    default:
+      driverClassName:org.mariadb.jdbc.Driver
+      url: local-dburl/rds dburl
+      username:username
+      password:password
+      maxpoolsize:2
+      minidle:1
+      idletimeout:10000
+      
+jpa:
+  default:
+    properties:
+      hibernate:
+        bytecode:
+          provider: none
+
+    

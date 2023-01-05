@@ -1,0 +1,16 @@
+[ {
+  "name" : "my.app.graal.UserOrganisationEntity",
+  "allDeclaredFields" : true,
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "org.mariadb.jdbc.Driver",
+  "allDeclaredFields" : true,
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "org.mariadb.jdbc.util.Options",
+  "allDeclaredFields" : true,
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+} ]

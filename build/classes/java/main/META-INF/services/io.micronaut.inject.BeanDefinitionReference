@@ -1,0 +1,4 @@
+my.app.graal.$UserOrganisationServiceDefinitionClass
+my.app.graal.$ExampleControllerDefinitionClass
+my.app.graal.$UserOrganisationControllerDefinitionClass
+my.app.graal.$UserOrganisationRepository$InterceptedDefinitionClass
